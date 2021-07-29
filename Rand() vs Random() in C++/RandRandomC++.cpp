@@ -1,4 +1,3 @@
-﻿// L2Zad1RandC++.cpp 
 // Autor - Paweł Leszczyński
 // Na podstawie wykładu  "Liczby Pseudolosowe" autorstwa dr-a M.Matyki
 
